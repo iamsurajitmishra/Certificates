@@ -47,6 +47,6 @@ All certification done during break time
 
 ## @Certification on System Design from Geeks for geeks --
 * Original link : ![](https://media.geeksforgeeks.org/courses/certificates/7963f47cae5556acf1e1b539cbdd0b9c.pdf)
-![](https://media.geeksforgeeks.org/courses/certificates/7963f47cae5556acf1e1b539cbdd0b9c.pdf)
+![](https://github.com/iamsurajitmishra/Certificates/blob/master/system-design-geeks-for-geeks.JPG)
 
 
